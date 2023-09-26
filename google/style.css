@@ -1,0 +1,217 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 10px;
+  height: 10px;
+  float: right;
+  margin-top: 0px;
+  font-size: 14px;
+}
+
+ul {
+  display: flex;
+  list-style: none;
+  align-items: center;
+  color: black;
+  margin-top: 5px;
+}
+
+li {
+  text-align: center;
+  padding: 14px 12px;
+}
+
+a {
+  text-decoration: none;
+}
+
+li a:hover {
+  text-decoration: underline;
+}
+
+.logo_google {
+  text-align: center;
+  padding-top: 225px;
+  padding-bottom: 10px;
+}
+
+main {
+  text-align: center;
+  padding-bottom: 245px;
+}
+
+.language {
+
+  padding-top: 200px;
+}
+
+form {
+  display: flex;
+  justify-content: center;
+  border-radius: 20px;
+}
+
+.magnifying_glass {
+  float: left;
+  width: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.google_lens {
+
+  float: right;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.input-box {
+  margin-left: 15px;
+
+  width: 420px;
+  height: 25px;
+  outline: none;
+  background: transparent;
+  border: none;
+  font-size: 15px;
+}
+
+.box {
+  border: 0.1px solid #c7c7c7;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 10px;
+  height: 30px;
+  width: 500px;
+  box-shadow: 1px 1px 5px #179;
+  border-radius: 40px;
+  z-index: 1;
+}
+
+.buttons {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%)
+}
+
+.btn {
+  margin-top: 100px;
+  font-size: 15px;
+  
+  border: none;
+  border-radius: 5px;
+}
+
+footer {
+  background-color: #f2f2f2;
+  padding-bottom: 0px;
+  padding-top: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  color: gray;
+  margin: -7px;
+  height: 100px;
+}
+
+.footer-1 {
+  padding-top: 20px;
+  padding-left: 26px;
+}
+
+.footer-2 {
+  text-align: left;
+  padding-top: -2px;
+  word-spacing: 2em;
+  padding-left: 26px;
+}
+
+.footer-3 {
+  font-size: 1em;
+  text-align: right;
+  color: gray;
+  padding-top: -2px;
+  justify-content: space-between;
+  padding-right: 100px;
+  word-spacing: 2em;
+}
+
+.footer-3 a:hover {
+  text-decoration: underline;
+}
+
+
+.box {
+  border: 0.1px solid #c7c5c5;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 10px;
+  height: 30px;
+  width: 500px;
+  box-shadow: 1px 1px 1px #179;
+  border-bottom: 0.5px;
+  border-radius: 40px;
+  z-index: 1;
+}
+
+.buttons {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%)
+  
+}
+
+.btn {
+  margin-top: 100px;
+}
+
+footer {
+  background-color: #f2f2f2;
+  padding-bottom: 0px;
+  padding-top: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  color: gray;
+  margin: -7px;
+  height: 100px;
+}
+
+.footer-1 {
+  padding-top: 20px;
+  padding-left: 26px;
+}
+
+.footer-2 {
+  text-align: left;
+  padding-top: -2px;
+  word-spacing: 2em;
+  padding-left: 26px;
+}
+
+.footer-3 {
+  font-size: 1em;
+  text-align: right;
+  color: gray;
+  padding-top: -2px;
+  justify-content: space-between;
+  padding-right: 100px;
+  word-spacing: 2em;
+}
+
+.footer-3 a:hover {
+  text-decoration: underline;
+}
+
+span {
+  font-size: 0.9em;
+}
